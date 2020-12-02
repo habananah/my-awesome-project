@@ -1,0 +1,29 @@
+body {
+    background-image: linear-gradient(to top, #c1dfc4 0%, #deecdd 100%);
+  }
+  .form-group {
+    padding: 50px 50px 50px 50px;
+  }
+  .today,
+  .upNext {
+    padding: 0 50px 50px 50px;
+  }
+  .weatherToday {
+    text-indent: 34%;
+    font-size: 64px;
+  }
+  .degrees {
+    text-indent: 34%;
+    font-size: 64px;
+  }
+  .card-emoji,
+  .card-text {
+    text-align: center;
+  }
+  
+  .madeBy {
+    position: fixed;
+    left: 40%;
+    bottom: 0;
+  }
+  
